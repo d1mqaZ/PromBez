@@ -1,0 +1,1 @@
+window.PROMBEZ = {"url": "https://txwtdwpjgwwdhsgfhsls.supabase.co", "key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InR4d3Rkd3BqZ3d3ZGhzZ2Zoc2xzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU3NzE0NzcsImV4cCI6MjExMTM0NzQ3N30.HhNvITdDiaEC9-1id15ItMxW5XAbux1jV3JxFz3PoKU"};
